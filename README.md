@@ -1,0 +1,1 @@
+Este é um trabalho referente a disciplina LP2, que tem o intuito de  capturar apenas os usuários originadores de tweets que contenham URLs que tenham sido retweetados
